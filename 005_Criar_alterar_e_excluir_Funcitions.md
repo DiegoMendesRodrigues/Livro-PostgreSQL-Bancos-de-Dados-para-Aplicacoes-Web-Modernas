@@ -1,4 +1,4 @@
-# Criar, alterar e excluir Funcitions
+# Criar, alterar e excluir Functions
 
 ## Criar Functions
 ```
