@@ -24,7 +24,7 @@ Durante a leitura do livro **PostgreSQL: Banco de dados para aplicações web mo
 
 [004 - Inserir, alterar e excluir registros](004_Inserir_alterar_e_excluir_registros.md)
 
-[005 - Criar alterar e excluir Funcitions](005_Criar_alterar_e_excluir_Funcitions.md)
+[005 - Criar alterar e excluir Functions](005_Criar_alterar_e_excluir_Functions.md)
 
 [006 - Operadores lógicos e de comparação](006_Operadores_lógicos_e_de_comparação.md)
 
