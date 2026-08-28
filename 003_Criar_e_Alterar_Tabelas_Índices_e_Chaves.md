@@ -1,5 +1,12 @@
 # Criar e Alterar Tabelas, Índices e Chaves
 
+## DER - Diagrama Entidade Relacionamento
+
+![DER](DER-Exibicao.png)
+
+
+## Time zone
+
 Ajustar da time zone para São Paulo
 ```
 SET TIME ZONE 'America/Sao_Paulo';
